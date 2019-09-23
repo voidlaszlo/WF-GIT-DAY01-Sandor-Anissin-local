@@ -1,6 +1,3 @@
 oneline
-<<<<<<< HEAD
 i will win now
-=======
 my file
->>>>>>> 039350ecc0fc57d132798aa21964f0391f8442ed
